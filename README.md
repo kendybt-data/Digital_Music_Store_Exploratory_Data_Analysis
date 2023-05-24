@@ -1,2 +1,2 @@
 # Digital_Music_Store_Exploratory_Data_Analysis
-The project aims to understand the track sales behavior of a digital music store by extracting, transforming and filtering data using SQL for the creation of queries, subqueries, joins, etc.
+The project consists of an exploratory analysis of a digital music store sales database. SQL was used to extract data from 11 related tables of the database. Subsequently, data transformation and filtering were performed using queries, subqueries, aggregation and window functions, joins and temporary tables to understand the behavior of track sales.
